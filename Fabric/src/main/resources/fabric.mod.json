@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "votecommand",
-  "version": "3.1",
+  "version": "3.2",
 
   "name": "Vote Command",
   "description": "Adds a configurable informational /vote command which tells players how and where to vote.",
   "authors": [ "Rick South" ],
   "contact": {
-    "homepage": "https://curseforge.com/minecraft/mc-mods/vote-command",
-    "sources": "https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Vote%20Command",
-    "issues": "https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Vote%20Command"
+    "homepage": "https://serilum.com/mod/vote-command",
+    "sources": "https://github.com/Serilum/Vote-Command",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Vote%20Command"
   },
 
   "license": "All Right Reserved",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=17",
-    "collective": ">=7.13"
+    "collective": ">=7.21"
   },
 
   "custom": {
