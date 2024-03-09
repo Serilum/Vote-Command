@@ -1,7 +1,7 @@
 package com.natamus.votecommand.cmds;
 
 import com.mojang.brigadier.CommandDispatcher;
-import com.natamus.collective.functions.StringFunctions;
+import com.natamus.collective.functions.MessageFunctions;
 import com.natamus.votecommand.config.ConfigHandler;
 import net.minecraft.ChatFormatting;
 import net.minecraft.commands.CommandSourceStack;
@@ -15,7 +15,7 @@ public class CommandVote {
 			.executes((command) -> {
 				Player player = command.getSource().getPlayer();
 				if (player != null) {
-					StringFunctions.sendMessage(player, ConfigHandler.voteCommandMessage, ChatFormatting.DARK_GREEN);
+					MessageFunctions.sendMessage(player, ConfigHandler.voteCommandMessage, ChatFormatting.DARK_GREEN);
 				}
 				return 1;
 			})
