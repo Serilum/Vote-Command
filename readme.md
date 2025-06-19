@@ -1,13 +1,13 @@
-<h2>Vote Command</h2>
-<p><a href="https://github.com/Serilum/Vote-Command"><img src="https://serilum.com/assets/data/logo/vote-command.png"></a></p><h2>Download</h2>
-<p>You can download Vote Command on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/vote-command">https://curseforge.com/minecraft/mc-mods/vote-command</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/vote-command">https://modrinth.com/mod/vote-command</a></p>
-<h2>Issue Tracker</h2>
-<p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/issue-tracker">Issue Tracker</a></p>
-<h2>Pull Requests</h2>
-<p>Because of the way mod loader files are bundled into one jar, some extra information is needed to do a PR.<br>&nbsp;&nbsp;A wiki page entry about it is available here:</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/pull-requests">Pull Request Information</a></p>
-<h2>Mod Description</h2>
+<h2>Vote Command</h2>
+<p><a href="https://github.com/Serilum/Vote-Command"><img src="https://serilum.com/assets/data/logo/vote-command.png"></a></p><h2>Download</h2>
+<p>You can download Vote Command on CurseForge and Modrinth:</p><p>&nbsp;&nbsp;CurseForge: &nbsp;&nbsp;<a href="https://curseforge.com/minecraft/mc-mods/vote-command">https://curseforge.com/minecraft/mc-mods/vote-command</a><br>&nbsp;&nbsp;Modrinth: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://modrinth.com/mod/vote-command">https://modrinth.com/mod/vote-command</a></p>
+<h2>Issue Tracker</h2>
+<p>To keep a better overview of all mods, the issue tracker is located in a separate repository.<br>&nbsp;&nbsp;For issues, ideas, suggestions or anything else, please follow this link:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/issue-tracker">Issue Tracker</a></p>
+<h2>Pull Requests</h2>
+<p>Because of the way mod loader files are bundled into one jar, some extra information is needed to do a PR.<br>&nbsp;&nbsp;A wiki page entry about it is available here:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;-> <a href="https://serilum.com/url/pull-requests">Pull Request Information</a></p>
+<h2>Mod Description</h2>
 <p style="text-align:center"><a href="https://serilum.com/" target="_blank" rel="nofollow"><img src="https://github.com/Serilum/.cdn/raw/main/description/header/header.png" alt="" width="838" height="400"></a></p>
 <p style="text-align:center"><a href="https://curseforge.com/members/serilum/projects" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/curseforge.svg" width="200"></a> <a href="https://modrinth.com/user/Serilum" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/modrinth.svg" width="200"></a> <a href="https://patreon.com/serilum" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/patreon.svg" width="200"></a> <a href="https://youtube.com/@serilum" target="_blank" rel="nofollow"><img src="https://raw.githubusercontent.com/Serilum/.data-workflow/main/badges/svg/youtube.svg" width="200"></a></p>
 <p><strong><span style="font-size:24px">Requires the library mod <a style="font-size:24px" href="https://curseforge.com/minecraft/mc-mods/collective" target="_blank" rel="nofollow">Collective</a>.</span></strong><br><br><span style="font-size:18px">Vote Command is a minimalistic configurable mod which adds an informational /vote command which tells players how and where to vote for servers. This can increase the position in server lists.</span><br><br><br><strong><span style="font-size:20px">Configurable:</span> <span style="color:#008000;font-size:14px"><a style="color:#008000" href="https://github.com/Serilum/.information/wiki/how-to-configure-mods" rel="nofollow">(&nbsp;how do I configure?&nbsp;)</a></span><br></strong><strong>voteCommandMessage</strong>&nbsp;(default = "This is an example /vote message. You can change it in the config."): The message which will be sent to players when they use the /vote command.<br><br><strong><br></strong><strong>You can input specific links, or an explanation on how to vote:</strong><br><picture><img src="https://github.com/Serilum/.cdn/raw/main/projects/vote-command/a.jpg" width="621" height="118"></picture><br><br><strong>So for example:<br><picture><img src="https://github.com/Serilum/.cdn/raw/main/projects/vote-command/b.jpg" width="618" height="120"></picture></strong></p>
