@@ -6,7 +6,6 @@ import com.natamus.votecommand.config.ConfigHandler;
 import net.minecraft.ChatFormatting;
 import net.minecraft.commands.CommandSourceStack;
 import net.minecraft.commands.Commands;
-import net.minecraft.server.permissions.Permissions;
 import net.minecraft.world.entity.player.Player;
 
 public class CommandVote {
