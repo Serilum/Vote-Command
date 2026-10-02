@@ -1,9 +1,9 @@
-package com.natamus.votecommand;
+package com.serilum.votecommand;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.votecommand.cmds.CommandVote;
-import com.natamus.votecommand.util.Reference;
+import com.serilum.votecommand.cmds.CommandVote;
+import com.serilum.votecommand.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.command.v2.CommandRegistrationCallback;
 

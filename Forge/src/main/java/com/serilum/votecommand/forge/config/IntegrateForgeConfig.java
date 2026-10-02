@@ -1,7 +1,7 @@
-package com.natamus.votecommand.forge.config;
+package com.serilum.votecommand.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.votecommand.util.Reference;
+import com.serilum.votecommand.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
