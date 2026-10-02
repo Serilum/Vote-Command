@@ -1,8 +1,8 @@
-package com.natamus.votecommand.cmds;
+package com.serilum.votecommand.cmds;
 
 import com.mojang.brigadier.CommandDispatcher;
 import com.natamus.collective.functions.MessageFunctions;
-import com.natamus.votecommand.config.ConfigHandler;
+import com.serilum.votecommand.config.ConfigHandler;
 import net.minecraft.ChatFormatting;
 import net.minecraft.commands.CommandSourceStack;
 import net.minecraft.commands.Commands;
