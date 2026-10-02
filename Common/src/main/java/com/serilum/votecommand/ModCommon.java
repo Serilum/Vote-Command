@@ -1,6 +1,6 @@
-package com.natamus.votecommand;
+package com.serilum.votecommand;
 
-import com.natamus.votecommand.config.ConfigHandler;
+import com.serilum.votecommand.config.ConfigHandler;
 
 public class ModCommon {
 
