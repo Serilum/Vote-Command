@@ -1,6 +1,6 @@
-package com.natamus.votecommand.forge.events;
+package com.serilum.votecommand.forge.events;
 
-import com.natamus.votecommand.cmds.CommandVote;
+import com.serilum.votecommand.cmds.CommandVote;
 import net.minecraftforge.event.RegisterCommandsEvent;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
 import net.minecraftforge.eventbus.api.listener.SubscribeEvent;
@@ -14,8 +14,8 @@ public class ForgeCommandRegisterEvent {
 		RegisterCommandsEvent.BUS.addListener(ForgeCommandRegisterEvent::registerCommands);
 	}
 
-    @SubscribeEvent
-    public static void registerCommands(RegisterCommandsEvent e) {
-    	CommandVote.register(e.getDispatcher());
-    }
+	@SubscribeEvent
+	public static void registerCommands(RegisterCommandsEvent e) {
+		CommandVote.register(e.getDispatcher());
+	}
 }

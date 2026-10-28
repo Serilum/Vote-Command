@@ -1,7 +1,7 @@
-package com.natamus.votecommand.fabric.config;
+package com.serilum.votecommand.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.votecommand.util.Reference;
+import com.serilum.votecommand.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 

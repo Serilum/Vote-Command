@@ -1,10 +1,10 @@
-package com.natamus.votecommand;
+package com.serilum.votecommand;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.votecommand.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.votecommand.neoforge.events.NeoForgeCommandRegisterEvent;
-import com.natamus.votecommand.util.Reference;
+import com.serilum.votecommand.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.votecommand.neoforge.events.NeoForgeCommandRegisterEvent;
+import com.serilum.votecommand.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModLoadingContext;

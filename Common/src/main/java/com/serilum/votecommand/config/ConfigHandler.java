@@ -1,7 +1,7 @@
-package com.natamus.votecommand.config;
+package com.serilum.votecommand.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.votecommand.util.Reference;
+import com.serilum.votecommand.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

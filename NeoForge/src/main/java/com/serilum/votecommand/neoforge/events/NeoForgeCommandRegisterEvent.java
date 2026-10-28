@@ -1,6 +1,6 @@
-package com.natamus.votecommand.neoforge.events;
+package com.serilum.votecommand.neoforge.events;
 
-import com.natamus.votecommand.cmds.CommandVote;
+import com.serilum.votecommand.cmds.CommandVote;
 import net.neoforged.neoforge.event.RegisterCommandsEvent;
 import net.neoforged.bus.api.SubscribeEvent;
 
